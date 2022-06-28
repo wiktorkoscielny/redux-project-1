@@ -1,3 +1,8 @@
+* I'm getting to know with REDUX
+
+You can check that simple tutorial project [here](https://wiktorkoscielny.github.io/redux-project-1/)
+Check redux dev tool!
+
 1. Create react app
 2. Install __redux__ `install redux react-redux` to connect react and redux together
 3. Installed redux-devtools-extension
