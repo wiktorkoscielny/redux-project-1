@@ -40,7 +40,9 @@ import reportWebVitals from './reportWebVitals';
 // store.dispatch(decrement());
 // store.dispatch(decrement());
 
+import { createStore } from 'redux';
 
+const store = createStore(two redures - combine)
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
