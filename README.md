@@ -1,5 +1,6 @@
 1. Create react app
 2. Install __redux__ `install redux react-redux` to connect react and redux together
+3. Installed redux-devtools-extension
 
 __STORE__ - holds data of application
 __ACTION__ - describes what I'm gonna do
