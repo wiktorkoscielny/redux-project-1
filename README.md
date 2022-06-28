@@ -11,3 +11,5 @@ ACTION is going to be called => REDUCER is going to check which action have been
 DISPATCH - way to actually execute actions e.g. dispatch that action to reducer
 
 __PROVIDER__ - connects global states at store to entire app
+__useSelector__
+__useDispatch__ - gives ability to dispatch an action
