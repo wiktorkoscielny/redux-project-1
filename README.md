@@ -9,3 +9,5 @@ __REDUCER__ - describes how actions transform the sate into the next state
 ACTION is going to be called => REDUCER is going to check which action have been done and based on that action it's going to modify => STORE
 
 DISPATCH - way to actually execute actions e.g. dispatch that action to reducer
+
+__PROVIDER__ - connects global states at store to entire app
